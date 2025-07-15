@@ -1,0 +1,16 @@
+{
+  "name": "test-task-loki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.0",
+    "commander": "^14.0.0",
+    "puppeteer-real-browser": "^1.4.2",
+    "skia-canvas": "^2.0.2"
+  }
+}
